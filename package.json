@@ -1,0 +1,20 @@
+{
+  "name": "print-preview-3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js",
+    "start": "npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.13.4",
+    "gsap": "^2.1.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
